@@ -8,6 +8,7 @@ import java.util.Date;
  * @date 2020/4/10
  * @description:
  *  30个线程
+ *   多个线程打印自己的时间（如果线程超级多就会产生性能问题），所以要使用线程池
  */
 public class ThreadlocalTest01 {
 

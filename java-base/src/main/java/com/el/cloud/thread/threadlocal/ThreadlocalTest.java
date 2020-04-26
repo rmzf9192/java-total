@@ -7,6 +7,7 @@ import java.util.Date;
  * @author Roman.Zhang
  * @date 2020/4/10
  * @description:
+ *  两个线程打印日期
  */
 public class ThreadlocalTest {
 
